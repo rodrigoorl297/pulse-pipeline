@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "segment": "education",
+    "value": 47,
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "segment": "education",
+    "value": 54,
+    "status": "paused"
+  },
+  {
+    "id": 3,
+    "segment": "education",
+    "value": 61,
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "segment": "education",
+    "value": 68,
+    "status": "completed"
+  },
+  {
+    "id": 5,
+    "segment": "education",
+    "value": 75,
+    "status": "paused"
+  },
+  {
+    "id": 6,
+    "segment": "education",
+    "value": 82,
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "segment": "education",
+    "value": 89,
+    "status": "completed"
+  },
+  {
+    "id": 8,
+    "segment": "education",
+    "value": 96,
+    "status": "paused"
+  },
+  {
+    "id": 9,
+    "segment": "education",
+    "value": 103,
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "segment": "education",
+    "value": 110,
+    "status": "completed"
+  },
+  {
+    "id": 11,
+    "segment": "education",
+    "value": 117,
+    "status": "paused"
+  },
+  {
+    "id": 12,
+    "segment": "education",
+    "value": 124,
+    "status": "active"
+  }
+]
